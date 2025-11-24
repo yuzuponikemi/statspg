@@ -9,9 +9,12 @@ ipywidgets
 numpy
 scipy
 pandas
+sympy
+networkx
 
 # Visualization
 matplotlib
+matplotlib-venn
 seaborn
 plotly
 
