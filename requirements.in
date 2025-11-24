@@ -1,2 +1,23 @@
 # requirements.in
 pytest
+
+# Jupyter and interactive
+jupyter
+ipywidgets
+
+# Scientific computing
+numpy
+scipy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Statistics and ML
+statsmodels
+scikit-learn
+
+# Additional utilities
+tqdm
